@@ -1,16 +1,23 @@
-## Hi there 👋
+## Seja Bem-Vindo!
+<p>Me chamo <b>Matheus</b>, mas pode me chamar de <b>Lauton</b>. É um prazer te conhecer!</p>
+<p>Sobre mim:</p>
 
-<!--
-**Lautones/Lautones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+  <li>🔭 Atualmente estou trabalhando com Desenvolvimento Web Full-Stack na Prefeitura de Sorocaba;</li> 
+  <li>🧠 Minhas competências incluem: C, C#, HTML5, CSS3, Bootstrap5, Javascript ES6, jQuery, PHP 7.4, Node.js, CodeIgniter e MySQL;</li>
+  <li>🌱 O que pretendo aprimorar ou nos próximos meses: Node.js, Express.js, APIs, React.js, PHP 7.4 e Laravel;</li>
+  <li>🎮 Interesses: Banco de Dados, Desenvolvimento Mobile, Desenvolvimento Web e Desenvolvimento de Jogos;</li>
+  <li>💬 Habilidades Interpessoais: Trabalho em equipe, resolução de problemas;</li>
+  <li>👨🏻‍💼 LinkedIn: <a href="https://br.linkedin.com/in/matheus-lauton">Matheus Lauton</a></li>
+</ul>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/lautones">
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api?username=lautones&show_icons=true&theme=tokyonight" media="(prefers-color-scheme: dark)"/>
+      <source srcset="https://github-readme-stats.vercel.app/api?username=lautones&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lautones&show_icons=true&theme=dracula"/>
+    </picture>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lautones&layout=compact&show_icons=true&theme=tokyonight"/>
+  </a>
+</div>
