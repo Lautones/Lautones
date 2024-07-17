@@ -7,9 +7,8 @@
   <li>🧠 Minhas competências incluem: C, C#, HTML5, CSS3, Bootstrap5, Javascript ES6, jQuery, PHP 7.4, Node.js, CodeIgniter e MySQL;</li>
   <li>🌱 O que pretendo aprimorar ou nos próximos meses: Node.js, Express.js, APIs, React.js, PHP 7.4 e Laravel;</li>
   <li>🎮 Interesses: Banco de Dados, Desenvolvimento Mobile, Desenvolvimento Web e Desenvolvimento de Jogos;</li>
-  <li>💬 Habilidades Interpessoais: Trabalho em equipe, resolução de problemas;</li>
-  <li>👨🏻‍💼 LinkedIn: <a href="https://br.linkedin.com/in/matheus-lauton">Matheus Lauton</a></li>
-</ul>
+  <li>💬 Habilidades Interpessoais: Trabalho em equipe, resolução de problemas.</li>
+  </ul>
 
 
 ## Histórico
@@ -20,7 +19,7 @@
       <source srcset="https://github-readme-stats.vercel.app/api?username=lautones&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
       <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=lautones&show_icons=true&theme=dracula"/>
     </picture>
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lautones&layout=compact&show_icons=true&theme=tokyonight"/>
+    <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lautones&layout=compact&show_icons=true&theme=tokyonight"/>
   </a>
 </div>
 
