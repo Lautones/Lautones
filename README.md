@@ -7,7 +7,7 @@
   <li>🧠 Minhas competências incluem: C, C#, HTML5, CSS3, Bootstrap5, Javascript ES6, jQuery, PHP 7.4, Node.js, CodeIgniter e MySQL;</li>
   <li>🌱 O que pretendo aprimorar nos próximos meses: Node.js, Express.js, APIs, React.js, PHP 7.4 e Laravel;</li>
   <li>🎮 Interesses: Banco de Dados, Desenvolvimento Mobile, Desenvolvimento Web e Desenvolvimento de Jogos;</li>
-  <li>💬 Habilidades Pessoais & Interpessoais: Learnability, Capacidade Analítica, Capacidade de Organização,  Trabalho em Equipe e Resolução de Problemas,.</li>
+  <li>💬 Habilidades Pessoais & Interpessoais: Learnability, Resolução de Problemas, Capacidade de Organização e Trabalho em Equipe.</li>
   </ul>
 
 
@@ -54,10 +54,9 @@
   <a href="https://www.linkedin.com/in/matheus-lauton/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
   </a>
-  
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"/>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://www.instagram.com/matheus_lauton/">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
+  </a>
 </div>
 
 ###
