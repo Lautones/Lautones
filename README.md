@@ -12,14 +12,14 @@
 
 
 ## Histórico
-<div>
-  <a href="https://github.com/lautones">
-    <picture>
-      <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lautones&layout=compact&show_icons=true&theme=tokyonight&hide_border=true"/>
-    </picture>
-   
-  </a>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lautones&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&custom_title=Principais%20Linguagens%20Utilizadas" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lautones&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=Estat%C3%ADsticas" height="180" alt="stats graph"  />
 </div>
+
+###
+
+###
 
 ## Ferramentas utilizadas
 <div align="left">
