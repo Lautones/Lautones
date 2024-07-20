@@ -26,7 +26,6 @@
     <li><a href="https://www.udemy.com/course/bancos-de-dados-relacionais-basico-avancado/?couponCode=MCLARENT71824">Banco de Dados e SQL</a> - Udemy.</li>
   </ul>
 </div>
-</br>
 
 ## Ferramentas utilizadas
 <div align="left">
@@ -56,6 +55,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
 </div>
+</br>
 </br>
 
 ## Entre em contato
