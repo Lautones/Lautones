@@ -22,7 +22,7 @@
   <ul>
     <li>🎓 Análise e Desenvolvimento de Sistemas - Fatec;</li>
     <li>🌎 Inglês - Wise Up;</li>
-    <li>💾 <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=MCLARENT71824">Web Development Bootcamp</a> - Udemy;</li>
+    <li>💻 <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=MCLARENT71824">Web Development Bootcamp</a> - Udemy;</li>
     <li>🌐 <a href="https://www.udemy.com/course/curso-php-7-online/?couponCode=MCLARENT71824">PHP 7</a> - Udemy;</li>
     <li>🎲 <a href="https://www.udemy.com/course/bancos-de-dados-relacionais-basico-avancado/?couponCode=MCLARENT71824">Banco de Dados e SQL</a> - Udemy.</li>
   </ul>
