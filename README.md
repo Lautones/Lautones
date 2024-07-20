@@ -9,7 +9,7 @@
   <li>🎮 Interesses: Banco de Dados, Desenvolvimento Mobile, Desenvolvimento Web e Desenvolvimento de Jogos;</li>
   <li>💬 Habilidades Pessoais & Interpessoais: Learnability, Resolução de Problemas, Capacidade de Organização e Trabalho em Equipe.</li>
   </ul>
-  </br>
+
 
 ## Histórico
 <div align="left">
