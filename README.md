@@ -1,14 +1,13 @@
 ## Seja Bem-Vindo!
 <p>Me chamo <b>Matheus</b>, mas pode me chamar de <b>Lauton</b>. É um prazer te conhecer!</p>
 <p>Sobre mim:</p>
-
 <ul>
   <li>💻 Atualmente estou trabalhando com Desenvolvimento Web Full-Stack na Prefeitura de Sorocaba;</li> 
   <li>🧠 Minhas competências incluem: C, C#, HTML5, CSS3, Bootstrap5, Javascript ES6, jQuery, PHP 7.4, Node.js, CodeIgniter e MySQL;</li>
   <li>🌱 O que pretendo aprimorar nos próximos meses: Node.js, Express.js, APIs, React.js, PHP 7.4 e Laravel;</li>
   <li>🎮 Interesses: Banco de Dados, Desenvolvimento Mobile, Desenvolvimento Web e Desenvolvimento de Jogos;</li>
   <li>💬 Habilidades Pessoais & Interpessoais: Learnability, Resolução de Problemas, Capacidade de Organização e Trabalho em Equipe.</li>
-  </ul>
+</ul>
 
 ## Histórico
 <div align="left">
@@ -26,9 +25,6 @@
     <li><a href="https://www.udemy.com/course/curso-php-7-online/?couponCode=MCLARENT71824">PHP 7</a> - Udemy;</li>
     <li><a href="https://www.udemy.com/course/bancos-de-dados-relacionais-basico-avancado/?couponCode=MCLARENT71824">Banco de Dados e SQL</a> - Udemy.</li>
   </ul>
-</div>
-
-###
 </div>
 
 ## Ferramentas utilizadas
