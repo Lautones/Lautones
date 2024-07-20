@@ -12,9 +12,14 @@
 
 ## Histórico
 <div align="left" style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lautones&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&custom_title=Principais%20Linguagens%20Utilizadas" height="180" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=lautones&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=Estat%C3%ADsticas" height="180" alt="stats graph" style="margin-left: 20px;"/>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lautones&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&custom_title=Principais%20Linguagens%20Utilizadas" height="180" alt="languages graph" />
+  </div>
+  <div style="margin-left: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=lautones&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=Estat%C3%ADsticas" height="180" alt="stats graph" />
+  </div>
 </div>
+
 
 
 ## Cursos em Andamento
