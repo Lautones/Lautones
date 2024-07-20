@@ -16,11 +16,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=lautones&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=Estat%C3%ADsticas" height="180" alt="stats graph"/>
 </div>
 
-
-
-
 ## Cursos em Andamento
 <div align="left">
+  <img src="https://media.tenor.com/6bnek3U6Kc8AAAAi/idea-lightbulb.gif" height="160" alt="Lightbulb Idea" align="right"/>
   <ul>
     <li>Análise e Desenvolvimento de Sistemas - Fatec;</li>
     <li>Inglês - Wise Up;</li>
@@ -28,6 +26,9 @@
     <li><a href="https://www.udemy.com/course/curso-php-7-online/?couponCode=MCLARENT71824">PHP 7</a> - Udemy;</li>
     <li><a href="https://www.udemy.com/course/bancos-de-dados-relacionais-basico-avancado/?couponCode=MCLARENT71824">Banco de Dados e SQL</a> - Udemy.</li>
   </ul>
+</div>
+
+###
 </div>
 
 ## Ferramentas utilizadas
