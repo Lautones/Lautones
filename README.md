@@ -9,12 +9,14 @@
   <li>🎮 Interesses: Banco de Dados, Desenvolvimento Mobile, Desenvolvimento Web e Desenvolvimento de Jogos;</li>
   <li>💬 Habilidades Pessoais & Interpessoais: Learnability, Resolução de Problemas, Capacidade de Organização e Trabalho em Equipe.</li>
   </ul>
+  </br>
 
 ## Histórico
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lautones&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&custom_title=Principais%20Linguagens%20Utilizadas" height="180" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=lautones&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=Estat%C3%ADsticas" height="180" alt="stats graph"  />
 </div>
+</br>
 
 ## Cursos em Andamento
 <div align="left">
@@ -26,6 +28,7 @@
     <li><a href="https://www.udemy.com/course/bancos-de-dados-relacionais-basico-avancado/?couponCode=MCLARENT71824">Banco de Dados e SQL</a> - Udemy.</li>
   </ul>
 </div>
+</br>
 
 ## Ferramentas utilizadas
 <div align="left">
@@ -55,7 +58,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
 </div>
-
+</br>
 
 ## Entre em contato
 <div align="left">
