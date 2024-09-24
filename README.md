@@ -3,8 +3,8 @@
 <p>Sobre mim:</p>
 <ul>
   <li>💻 Atualmente estou trabalhando com Desenvolvimento Web Full Stack na Prefeitura de Sorocaba;</li> 
-  <li>🧠 Minhas competências incluem: C, C#, HTML5, CSS3, Bootstrap5, Javascript ES6, jQuery, PHP 7.4, Node.js, CodeIgniter e MySQL;</li>
-  <li>🌱 O que pretendo aprimorar nos próximos meses: Node.js, Express.js, APIs, React.js, PHP 7.4 e Laravel;</li>
+  <li>🧠 Minhas competências incluem: C, C#, HTML5, CSS3, Bootstrap5, Javascript ES6, jQuery, PHP 7.4, Node.js, CodeIgniter, SQL, MySQL e PSQL;</li>
+  <li>🌱 O que pretendo aprimorar nos próximos meses: Node.js, React.js, C# e Angular;</li>
   <li>🎮 Interesses: Banco de Dados, Desenvolvimento Mobile e Desenvolvimento Web;</li>
   <li>💬 Habilidades Pessoais & Interpessoais: Learnability, Resolução de Problemas, Capacidade de Organização e Trabalho em Equipe.</li>
 </ul>
@@ -23,7 +23,7 @@
     <li>🎓 Análise e Desenvolvimento de Sistemas - Fatec;</li>
     <li>🌎 Inglês - Wise Up;</li>
     <li>👨🏻‍💻 <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=MCLARENT71824">Web Development Bootcamp</a> - Udemy;</li>
-    <li>🌐 <a href="https://www.udemy.com/course/curso-php-7-online/?couponCode=MCLARENT71824">PHP 7</a> - Udemy.</li>
+    <li>🌐 <a href="https://web.dio.me/track/272e799b-a64d-4048-90a3-adfdceafe244">Randstad - Backend com .NET</a> - dio.me.</li>
   </ul>
 </div>
 
