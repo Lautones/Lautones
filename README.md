@@ -3,7 +3,7 @@
 <p>Sobre mim:</p>
 <ul>
   <li>💻 Atualmente estou trabalhando com Desenvolvimento Web Full Stack na Prefeitura de Sorocaba;</li> 
-  <li>🧠 Minhas competências incluem: C, C#, HTML5, CSS3, Bootstrap5, Javascript ES6, jQuery, PHP 7.4, Node.js, CodeIgniter, SQL, MySQL e PSQL;</li>
+  <li>🧠 Minhas competências incluem: C, C#, HTML5, CSS3, Bootstrap5, Javascript ES6, jQuery, PHP 7.4, Node.js, SQL, MySQL e PSQL;</li>
   <li>🌱 O que pretendo aprimorar nos próximos meses: Node.js, React.js, C# e Angular;</li>
   <li>🎮 Interesses: Banco de Dados, Desenvolvimento Mobile e Desenvolvimento Web;</li>
   <li>💬 Habilidades Pessoais & Interpessoais: Learnability, Resolução de Problemas, Capacidade de Organização e Trabalho em Equipe.</li>
