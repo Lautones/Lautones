@@ -2,9 +2,9 @@
 <p>Me chamo <b>Matheus</b>, mas pode me chamar de <b>Lauton</b>. É um prazer te conhecer!</p>
 <p>Sobre mim:</p>
 <ul>
-  <li>💻 Atualmente estou trabalhando com Desenvolvimento Web Full Stack na Prefeitura de Sorocaba;</li> 
-  <li>🧠 Minhas competências incluem: C, C#, HTML5, CSS3, Bootstrap5, Javascript ES6, Node.js, MySQL e PSQL;</li>
-  <li>🌱 O que pretendo aprimorar nos próximos meses: Node.js, React.js, C# e Angular;</li>
+  <li>💻 Atualmente estou trabalhando como estagiário em Desenvolvimento Back-End na GFT Technologies;</li> 
+  <li>🧠 Minhas competências incluem: C, C#, HTML5, CSS3, Javascript ES6 e MySQL;</li>
+  <li>🌱 O que pretendo aprimorar nos próximos meses: .Net e Angular;</li>
   <li>🎮 Interesses: Banco de Dados, Desenvolvimento Mobile e Desenvolvimento Web;</li>
   <li>💬 Habilidades Pessoais & Interpessoais: Learnability, Resolução de Problemas, Capacidade de Organização e Trabalho em Equipe.</li>
 </ul>
