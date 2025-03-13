@@ -23,7 +23,6 @@
     <li>🎓 Análise e Desenvolvimento de Sistemas - Fatec;</li>
     <li>🌎 Inglês - Wise Up;</li>
     <li>👨🏻‍💻 <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=MCLARENT71824">Web Development Bootcamp</a> - Udemy;</li>
-    <li>🌐 <a href="https://web.dio.me/track/272e799b-a64d-4048-90a3-adfdceafe244">Randstad - Backend com .NET</a> - dio.me.</li>
   </ul>
 </div>
 
