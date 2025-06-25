@@ -22,7 +22,7 @@
   <ul>
     <li>🎓 Análise e Desenvolvimento de Sistemas - Fatec;</li>
     <li>🌎 Inglês - Wise Up;</li>
-    <li>👨🏻‍💻 Front-End - Origamid</li>
+    <li>👨🏻‍💻 Front-End - Origamid.</li>
   </ul>
 </div>
 
