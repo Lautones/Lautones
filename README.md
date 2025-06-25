@@ -3,9 +3,9 @@
 <p>Sobre mim:</p>
 <ul>
   <li>💻 Atualmente estou trabalhando como estagiário em Desenvolvimento Back-End na GFT Technologies;</li> 
-  <li>🧠 Minhas competências incluem: C, C#, HTML5, CSS3, Javascript ES6 e MySQL;</li>
-  <li>🌱 O que pretendo aprimorar nos próximos meses: .Net e Angular;</li>
-  <li>🎮 Interesses: Banco de Dados, Desenvolvimento Mobile e Desenvolvimento Web;</li>
+  <li>🧠 Minhas competências incluem: C, C#, Java, HTML5, CSS3, JS, TS, Angular e SQL;</li>
+  <li>🌱 O que pretendo aprimorar nos próximos meses: JS, TS & Nest;</li>
+  <li>🎮 Interesses: Front-End & Back-End;</li>
   <li>💬 Habilidades Pessoais & Interpessoais: Learnability, Resolução de Problemas, Capacidade de Organização e Trabalho em Equipe.</li>
 </ul>
 
@@ -22,7 +22,7 @@
   <ul>
     <li>🎓 Análise e Desenvolvimento de Sistemas - Fatec;</li>
     <li>🌎 Inglês - Wise Up;</li>
-    <li>👨🏻‍💻 <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=MCLARENT71824">Web Development Bootcamp</a> - Udemy.</li>
+    <li>👨🏻‍💻 Front-End - Origamid</li>
   </ul>
 </div>
 
